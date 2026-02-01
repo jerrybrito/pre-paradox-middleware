@@ -1,0 +1,2 @@
+# Requires: circular-liminal
+# (Not available on PyPI)
